@@ -1,9 +1,0 @@
-{
-    "java.project.sourcePaths": [
-        "P1/ND1.1_CampaniaPublicitaria/src",
-        "P1/SW1.1_Videojuego/src",
-        "P1/AC1.1_Sensor/src",
-        "P2/S6-Analisis_de_modulos/src"
-    ],
-    "java.project.referencedLibraries": []
-}
